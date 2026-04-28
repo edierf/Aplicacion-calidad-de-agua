@@ -1,0 +1,8 @@
+tensorflow==2.21.0
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.7.2
+joblib==1.5.3
+openpyxl==3.1.5
+tkinterdnd2==0.4.3
+pyinstaller==6.16.0
